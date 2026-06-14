@@ -21,3 +21,6 @@ An interactive Excel dashboard analyzing sales data across regions, products, an
 - Central region generated highest sales
 - March was the best performing month
 - Smartphone delivered highest profit
+
+## Dashboard Preview
+![Dashboard](SALES-DASHBOARD.pdf)
